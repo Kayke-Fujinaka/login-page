@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    font-family: "Roboto", sans-serif;
+    overflow-y: auto;
+}
+
+body {
+    background-color: #f2f2f7;
+}
+div {
+    width: 375px;
+    margin: 50px auto;
+    display: block;
+    border-radius: 6px;
+}
+
+h1 {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 41px;
+    color: #000000;
+
+    margin: 126px 277px 12px 16px;
+}
+
+p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 26px;
+    color: rgba(0, 0, 0, 0.5);
+
+    display: block;
+    margin: 0 16px 102px 16px;
+}
+
+input {
+    width: 343px;
+    height: 48px;
+    background: #f2f2f7;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+
+    display: block;
+    margin: 0 16px;
+}
+
+.input-2 {
+    margin-top: 12px;
+    margin-bottom: 17px;
+}
+
+input::placeholder {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #929292;
+
+    padding: 13px 291px 13px 14px;
+}
+
+a {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 22px;
+    color: #007aff;
+    text-decoration: none;
+
+    display: block;
+    text-align: right;
+    margin-right: 16px;
+    margin-bottom: 20px;
+}
+
+button {
+    width: 343px;
+    height: 48px;
+    background: rgba(0, 0, 0, 0.94);
+    border-radius: 10px;
+    border: none;
+
+    display: block;
+    margin: 0 auto 204px;
+
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 22px;
+    color: #ffffff;
+
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+button:hover {
+    opacity: 0.8;
+}
+
+button:active {
+    opacity: 0.6;
+}
+
+.no-account {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(0, 0, 0, 0.51);
+    display: block;
+    text-align: center;
+    margin: 0 auto 39px;
+}
+.sing-up {
+    display: inline;
+}

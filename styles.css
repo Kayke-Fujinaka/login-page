@@ -45,7 +45,7 @@ input {
     border-radius: 6px;
     border: none;
     outline: none;
-
+    padding: 13px 0 13px 14px;
     display: block;
     margin: 0 16px;
 }
@@ -61,8 +61,6 @@ input::placeholder {
     font-size: 16px;
     line-height: 22px;
     color: #929292;
-
-    padding: 13px 291px 13px 14px;
 }
 
 a {
@@ -98,12 +96,8 @@ button {
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 
-button:hover {
-    opacity: 0.8;
-}
-
 button:active {
-    opacity: 0.6;
+    opacity: 0.8;
 }
 
 .no-account {

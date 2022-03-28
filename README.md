@@ -1,33 +1,48 @@
-# Login Interface
+# Login Page (Dev)
 
-<img src="https://github.com/Kayke-Fujinaka/Interface-Login/raw/main/image.png" width="450px" alt="Login Interface">
+<img src="./gif.gif" width="800px" height="400px" alt="Gif do Teste">
 
-Confira a aplicação: https://kayke-fujinaka.github.io/Interface-Login/
+>  A login page made in a DevClub challenge.
 
-## 🚀 Technologies
+Check the Application: https://kayke-fujinaka.github.io/Interface-Login/
+## :page_facing_up: Explanation
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+  A página foi um desafio proposto no módulo de CSS do DevClub. Assim, simulando uma página de login.
+## :dart: Features ##
 
-- HTML5
-- CSS3
+:heavy_check_mark: Estrutura da página com HTML;\
+:heavy_check_mark: Estilizando com CSS;\
+:heavy_check_mark: Finalizado;
 
-## 🤝 Colaboradores
+## :rocket: Technologies ##
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+The following tools were used in this project:
+
+- [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/html/)  
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) 
+
+## 🤝 Collaborators
+
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="100px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="140px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
         <sub>
-          <b>Kayke Fujinaka</b>
+          <b>Kayke Alves Fujinaka</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
+
+&#xa0;
+
+<a href="#top">Back to top</a>

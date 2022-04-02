@@ -9,33 +9,26 @@
 
 body {
     background-color: #f2f2f7;
+    height: 100vh;
 }
 div {
     width: 375px;
-    margin: 50px auto;
+    margin: 12px auto;
     display: block;
     border-radius: 6px;
 }
 
 h1 {
-    font-style: normal;
-    font-weight: 500;
     font-size: 32px;
-    line-height: 41px;
     color: #000000;
-
-    margin: 126px 277px 12px 16px;
+    margin: 120px 0 12px 16px;
 }
 
 p {
-    font-style: normal;
-    font-weight: normal;
     font-size: 20px;
-    line-height: 26px;
     color: rgba(0, 0, 0, 0.5);
-
-    display: block;
-    margin: 0 16px 102px 16px;
+    display: flex;
+    margin: 0 16px 80px 16px;
 }
 
 input {

@@ -1,6 +1,6 @@
 # Login Page (Dev)
 
-<img src="./assets/img/gif.gif" width="800px" alt="Gif do Teste">
+<img src="./assets/img/gif.gif" width="500px" alt="Gif do Teste">
 
 >  A login page made in a DevClub challenge.
 

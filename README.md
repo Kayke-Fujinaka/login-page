@@ -1,10 +1,6 @@
 <h1 align="center">📃 Login Interface</h1>
 
-<img src="./assets/image.png" alt="Kayke's Portfolio">
-
 >  This project is an interface login.
-
-Check out the application: https://kayke-fujinaka.github.io/Portfolio/
 
 ## :page_facing_up: Description
 
